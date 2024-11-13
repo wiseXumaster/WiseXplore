@@ -9,8 +9,7 @@ interface Props {
 }
 
 export default function AuthorLayout({ children, content }: Props) {
-  const { name, avatar, email, github , bilibili} = content
-
+  const { name, avatar, email, github, bilibili } = content
   return (
     <>
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
