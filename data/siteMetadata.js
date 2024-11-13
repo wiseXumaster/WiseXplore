@@ -7,7 +7,7 @@ const siteMetadata = {
   description: 'WiseXplore',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://WiseXplore-blog.vercel.app',
+  siteUrl: 'https://wisexplore.vercel.app',
   siteRepo: 'https://github.com/wiseXumaster/WiseXplore',
   siteLogo: `/static/images/logo.png`,
   socialBanner: `/static/images/banner.png`,
